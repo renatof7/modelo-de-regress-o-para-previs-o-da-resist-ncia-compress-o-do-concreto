@@ -1,0 +1,1 @@
+# modelo-de-regress-o-para-previs-o-da-resist-ncia-compress-o-do-concreto

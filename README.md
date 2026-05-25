@@ -1,7 +1,9 @@
 # Predição da Resistência à Compressão do Concreto
 
 Projeto de regressão aplicado à previsão da resistência à compressão do concreto com base em características dos materiais e do processo de cura. O trabalho combina análise exploratória de dados, engenharia de atributos e modelagem preditiva para estimar uma variável contínua de interesse em contexto de engenharia e ciência de dados.
-
+<div align="center">
+  <img src="./grafico 3.png" alt="" width="800" />
+</div>
 ## Sobre o projeto
 
 Este projeto utiliza uma base com variáveis relacionadas à composição do concreto, como cimento, escória de alto-forno, cinza volante, água, superplastificante, agregados e idade da mistura, com o objetivo de prever a resistência à compressão do concreto.
